@@ -1,6 +1,6 @@
 class Sumo < Formula
   homepage "https://sourceforge.net/projects/sumo/"
-  url "https://downloads.sourceforge.net/project/sumo/sumo/version%200.23.0/sumo-all-0.23.0.tar.gz"
+  url "https://downloads.sourceforge.net/project/sumo/sumo/version%200.24.0/sumo-all-0.24.0.tar.gz"
   sha256 "8a6354a11717cdff2f3f247239fb55472ea57268b392e5e442777a1c05d92299"
 
   bottle do
