@@ -1,7 +1,7 @@
 class Sumo < Formula
   homepage "https://sourceforge.net/projects/sumo/"
   url "https://downloads.sourceforge.net/project/sumo/sumo/version%200.24.0/sumo-all-0.24.0.tar.gz"
-  sha256 "8a6354a11717cdff2f3f247239fb55472ea57268b392e5e442777a1c05d92299"
+  sha256 "26e5e91fbd8fc38553418599909164d6f44a04ccdf5f365c6feb0cc4365ba51f"
 
   bottle do
     cellar :any
