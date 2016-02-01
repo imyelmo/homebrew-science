@@ -1,7 +1,7 @@
 class Sumo < Formula
   desc "Simulation of Urban Mobility"
   homepage "https://sourceforge.net/projects/sumo/"
-  url "https://downloads.sourceforge.net/project/sumo/sumo/version%200.24.0/sumo-all-0.25.0.tar.gz"
+  url "https://downloads.sourceforge.net/project/sumo/sumo/version%200.25.0/sumo-all-0.25.0.tar.gz"
   sha256 "e56552e4cd997ccab59b5c6828ca1e044e71e3ffe8c780831bf5aa18c5fdd18a"
 
   bottle do
